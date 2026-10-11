@@ -110,12 +110,6 @@ in order to reduce the size i was moving parts together and edge cuts together s
 
 i was trying my best to do it since it was cloud it has  different version at different point so that has been the big prb though
 
-i gave it most of my time  to get that cloud shape measured it so many times but it just made exhausted i was done then i just choosed the basic rectangle shape ughh
-
-i also thought to make circle but i did not
-
-i had to change the copper layer again and again
-
 ![Screenshot 2026-10-08 005633](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/k9cK7RFJqruSmBgZjJV0pElVN8uP2ZCX/7f4552e3d654e5355d98e85e077a7cd9cadbde46b5cf5e48808764036735cad3.png)
 
 ![Screenshot 2026-10-08 115342](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/k9cK7RFJqruSmBgZjJV0pElVN8uP2ZCX/cf3a19c3c5204f2d6f8e67c3def91735ea477240fe0a2712a2169bad755a88d9.png)
