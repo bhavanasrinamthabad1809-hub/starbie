@@ -1,7 +1,8 @@
-Designator,Footprint,Quantity,Value,link Part #,Component
-J1,Display_128x64_096_I2C,1,Conn_01x04_Pin,#https://aax-eu-zaz.amazon. inch OLED Display (I2C - SSD1306 - 128x64)
-J2,PinHeader_1x08_P2.54mm_Vertical,1,Conn_01x08_Pin,#https://amzn.in/d/0gr2a54f MPU6050 Motion Sensor Module (GY-521)
-R1,R_Axial_DIN0204_L3.6mm_D1.6mm_P7.62mm_Horizontal,1,10K,#https://amzn.in/d/0igUKfiz,10K Ohm Resistor (1/4W)
-"SW1, SW2, SW3",SW_Cherry_MX_1.00u_PCB,3,SW_Push,#https://amzn.in/d/0hMJ6EFL,Cherry MX Keyboard Switch (PCB mount)
-U1,Aosong_DHT11_5.5x12.0_P2.54mm,1,DHT11,#https://amzn.in/d/0cS7kQSc,DHT11 Temperature and Humidity Sensor (4 pin)
-U2,XIAO-ESP32-C6-DIP,1,XIAO-ESP32-C3-SMD,#https://robu.in/product/seeed-studio-xiao-esp32c3-tiny-mcu-board-with-wi-fi-and-ble-battery-charge-supported-power-efficiency-and-rich-interface/,Seeed Studio XIAO ESP32-C3
+
+Footprint,Quantity,Value,link,Part #,Component
+Display_128x64_096_I2C,1,Conn_01x04_Pin,https://aax-eu-zaz.amazon.inch,OLED Display (I2C - SSD1306 - 128x64)
+PinHeader_1x08_P2.54mm_Vertical,1,Conn_01x08_Pin,https://amzn.in/d/0gr2a54f,MPU6050 Motion Sensor Module (GY-521)
+R_Axial_DIN0204_L3.6mm_D1.6mm_P7.62mm_Horizontal,1,10K,https://amzn.in/d/0jgUKF5,10K Ohm Resistor (1/4W)
+SW_Cherry_MX_1.00u_PCB,3,SW_Push,https://amzn.in/d/0hMJ6EFL,Cherry MX Keyboard Switch (PCB mount)
+AoSong_DHT11_5.5x12.0_P2.54mm,1,DHT11,https://amzn.in/d/0cS7kQSc,DHT11 Temperature and Humidity Sensor (4 pin)
+XIAO-ESP32-C6-DIP,1,XIAO-ESP32-C3-SMD,https://robu.in/product/seeed-studio-xiao-esp32-c3-tiny-mcu-board-with-wi-fi-and-ble-battery-charge-supported-by-effici
