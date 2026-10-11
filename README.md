@@ -32,7 +32,7 @@ a lot of stuff went wrong. some parts like the esp32 weren't in kicad search so 
 
 
 # FLIMWARE
-it's one arduino sketch based on the guide's code, with my pins and the happy button added. to use it, install the arduino ide, then install esp32 by espressif systems in the boards manager and pick XIAO_ESP32C3. set USB CDC On Boot to Enabled. install the libraries Adafruit GFX, Adafruit SSD1306, Adafruit MPU6050 and DHT sensor library. then open the sketch, hit verify, and upload with the board plugged in.
+it's one arduino sketch based on the guide's code, with changes in the code , adding 3 button , changing the character with image app , specifically telling the reaction to the pet to nap rest happy jump excited , menu opening much  deadline is on my head bro .
 
 ## STATUS
 the schematic and pcb layout are done and the firmware compiles. i haven't tested it on the real board yet because it's not built.(SOON)
