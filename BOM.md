@@ -16,10 +16,9 @@
 | [DHT11](https://robu.in/product/serial-dht11-temperature-and-humidity-sensor/) | environment | 1 | $2.99 | $2.99 | [robu.in](https://robu.in/product/serial-dht11-temperature-and-humidity-sensor/) |
 | [display](https://www.amazon.in/dp/B07Q7VZ716?ref=cm_sw_r_cp_ud_dp_N0Q0DWAJAXQ6CJFSFA7Z&ref_=cm_sw_r_cp_ud_dp_N0Q0DWAJAXQ6CJFSFA7Z&social_share=cm_sw_r_cp_ud_dp_N0Q0DWAJAXQ6CJFSFA7Z) | to see character | 1 | $3.09 | $3.09 | [amazon](https://www.amazon.in/dp/B07Q7VZ716?ref=cm_sw_r_cp_ud_dp_N0Q0DWAJAXQ6CJFSFA7Z&ref_=cm_sw_r_cp_ud_dp_N0Q0DWAJAXQ6CJFSFA7Z&social_share=cm_sw_r_cp_ud_dp_N0Q0DWAJAXQ6CJFSFA7Z) |
 | [pcb](https://cart.jlcpcb.com/shopcart/cart) | circuit | 1 | $13.75 | $13.75 | [jlcpcb](https://cart.jlcpcb.com/shopcart/cart) |
-| [resistor](https://amzn.in/d/0iF0hELr) | current voltage control | 1 | $1.32 | $1.32 | [amazon](https://amzn.in/d/0iF0hELr) |
 | [mpu6050](https://amzn.in/d/0cvUVmG8) | motion sensor | 1 | $2.16 | $2.16 | [amazon](https://amzn.in/d/0cvUVmG8) |
-| **Parts subtotal** | — | — | — | **$30.96** | — |
+| **Parts subtotal** | — | — | — | **$29.64** | — |
 | **Tax & shipping** | — | — | — | **$0.00** | — |
-| **Total** | — | — | — | **$30.96** | — |
+| **Total** | — | — | — | **$29.64** | — |
 
-**$0.96 over the tier's funding.** Every tier gives a fixed amount for parts, so this needs cutting back or a higher tier.
+$0.36 left of the tier's funding.
