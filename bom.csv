@@ -1,7 +1,7 @@
-﻿Designator,Footprint,Quantity,Value,LCSC Part #
-J1,Display_128x64_096_I2C,1,Conn_01x04_Pin,#https://amzn.in/d/02mGgvxq
+﻿Designator,Footprint,Quantity,Value,LCSC Part # ,Unit Price (INR),Total (INR)
+J1,Display_128x64_096_I2C,1,Conn_01x04_Pin,#https://amzn.in/d/02mGgvxq  ,
 J2,PinHeader_1x08_P2.54mm_Vertical,1,Conn_01x08_Pin,#https://amzn.in/d/0hsISC7u
 R1,R_Axial_DIN0204_L3.6mm_D1.6mm_P7.62mm_Horizontal,1,10K,#https://amzn.in/d/02bA9zHw
 "SW1, SW2, SW3",SW_Cherry_MX_1.00u_PCB,3,SW_Push,#https://amzn.in/d/0fYDM9WT
 U1,Aosong_DHT11_5.5x12.0_P2.54mm,1,DHT11,#https://amzn.in/d/0hvQshWa
-U2,XIAO-ESP32-C6-DIP,1,XIAO-ESP32-C3-SMD,#https://amzn.in/d/05TdrCw7
+U2,XIAO-ESP32-C6-DIP,1,XIAO-ESP32-C3-SMD,#https://amzn.in/d/05TdrCw7 1450
