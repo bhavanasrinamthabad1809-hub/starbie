@@ -15,10 +15,9 @@
 | [xiao-esp32-c3](https://robu.in/product/seeed-studio-xiao-esp32c3-tiny-mcu-board-with-wi-fi-and-ble-battery-charge-supported-power-efficiency-and-rich-interface/) | brain of starbie | 1 | $7.65 | $7.65 | [robu.in](https://robu.in/product/seeed-studio-xiao-esp32c3-tiny-mcu-board-with-wi-fi-and-ble-battery-charge-supported-power-efficiency-and-rich-interface/) |
 | [sensor](https://robu.in/product/serial-dht11-temperature-and-humidity-sensor/) | environment | 1 | $2.99 | $2.99 | [robu.in](https://robu.in/product/serial-dht11-temperature-and-humidity-sensor/) |
 | [display](https://www.amazon.in/dp/B07Q7VZ716?ref=cm_sw_r_cp_ud_dp_N0Q0DWAJAXQ6CJFSFA7Z&ref_=cm_sw_r_cp_ud_dp_N0Q0DWAJAXQ6CJFSFA7Z&social_share=cm_sw_r_cp_ud_dp_N0Q0DWAJAXQ6CJFSFA7Z) | to see character | 1 | $3.09 | $3.09 | [amazon](https://www.amazon.in/dp/B07Q7VZ716?ref=cm_sw_r_cp_ud_dp_N0Q0DWAJAXQ6CJFSFA7Z&ref_=cm_sw_r_cp_ud_dp_N0Q0DWAJAXQ6CJFSFA7Z&social_share=cm_sw_r_cp_ud_dp_N0Q0DWAJAXQ6CJFSFA7Z) |
-| [resistor](https://www.amazon.in/dp/B0DQFKBHBB?ref=cm_sw_r_cp_ud_dp_3VZSKJRA9EZQSMCM7GMN&ref_=cm_sw_r_cp_ud_dp_3VZSKJRA9EZQSMCM7GMN&social_share=cm_sw_r_cp_ud_dp_3VZSKJRA9EZQSMCM7GMN&th=1) | electrical signal | 1 | $1.32 | $1.32 | [amazon](https://www.amazon.in/dp/B0DQFKBHBB?ref=cm_sw_r_cp_ud_dp_3VZSKJRA9EZQSMCM7GMN&ref_=cm_sw_r_cp_ud_dp_3VZSKJRA9EZQSMCM7GMN&social_share=cm_sw_r_cp_ud_dp_3VZSKJRA9EZQSMCM7GMN&th=1) |
 | [pcb](https://cart.jlcpcb.com/shopcart/cart) | circuit | 1 | $13.75 | $13.75 | [jlcpcb](https://cart.jlcpcb.com/shopcart/cart) |
-| **Parts subtotal** | — | — | — | **$28.80** | — |
+| **Parts subtotal** | — | — | — | **$27.48** | — |
 | **Tax & shipping** | — | — | — | **$0.00** | — |
-| **Total** | — | — | — | **$28.80** | — |
+| **Total** | — | — | — | **$27.48** | — |
 
-$1.20 left of the tier's funding.
+$2.52 left of the tier's funding.
