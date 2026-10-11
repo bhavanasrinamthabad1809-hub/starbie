@@ -1,69 +1,31 @@
-# starbie ⭐ (3 button edition)
+starbie (3 button edition)
 
 so basically starbie is a tiny digital pet that lives on your desk, kinda like a tamagotchi lol. it walks around a little oled screen, reacts when you tilt or shake it, shows the temperature and humidity, and now it also gets happy when you press its 3rd button.
 
-this is my version of the  starbie made for **half life by hack club**
+#why i made this
+to learn hardware simple as that . this is my first ever pcb so yeahh.
 
-<!-- TODO: add pics here, like the schematic, the pcb layout, the 3d render. half life wants photos in the readme -->
+##what it does
+button 1 opens the menu. when the menu is open you tilt it to move the ball over NAP, PLAY, FEED or PET, then press button 1 again to pick one. button 2 shows or hides the stats like joy, energy, fullness, temperature and humidity. button 3 makes starbie happy, it hops and hearts float up and sparkles twinkle. if you shake it, starbie does a shake reaction. it also saves its stats so it remembers how it was doing after you unplug it.
 
-## why i made this 
-to learn hardware .
+##how it works
+the XIAO ESP32-C3 is the brain. the 0.96 inch oled shows the pet and the menu. the MPU6050 feels the tilt and shake. the DHT11 reads temperature and humidity, with a 10k resistor on its data pin. the 3 mx switches are the buttons.
 
-## what it does
-control what happens ?
-button 1 (first press)  opens the menu 
-tilt while menu is open  moves the ball to NAP, PLAY, FEED or PET
-button 1 (second press) picks the one the ball is on
-button 2  shows or hides the stats (joy, energy, fullness, temp, humidity)
-button 3 makes starbie happy, it hops and hearts float up and sparkles twinkle
-shake  starbie does a shake reaction
+for the pins, the dht11 is on D1 (gpio 3), button 1 is on D2 (gpio 4), button 2 is on D3 (gpio 5), scl is on D4 (gpio 6), sda is on D5 (gpio 7) and button 3 is on D6 (gpio 21). the names on my schematic wires (gpio2, gpio3, gpio4) are just labels i typed, the real gpio numbers are the ones i just said.
 
-## how it works
- **XIAO ESP32-C3** is the brain
- **0.96" oled** shows the pet and the menu
-**MPU6050** feels the tilt and shake
-**DHT11** reads temperature and humidity (with a 10k resistor on its data pin)
-**3 mx switches** are the buttons
+##what i changed from the guide
+i added a 3rd button because the guide only has 2, that was my twist for the project. i also made a happy animation for it, so when you press it starbie hops, hearts float up and sparkles twinkle for a few seconds, and its joy goes up. the last thing is that my scl and sda are swapped compared to the guide's table, so the numbers in the code are swapped too.
 
-pins:
-| part | xiao pin | gpio |
-| --- | --- | --- |
-| dht11 data | D1 | 3 |
-| button 1 | D2 | 4 |
-| button 2 | D3 | 5 |
-| scl (oled + mpu6050) | D4 | 6 |
-| sda (oled + mpu6050) | D5 | 7 |
-| button 3 | D6 | 21 |
-
-## what i changed from the guide
-
-- **added a 3rd button.** the guide only has 2. this was my twist for the project
-- **happy animation** for the 3rd button. press it and starbie hops, hearts float up and sparkles twinkle for a few seconds, and its joy goes up
-- **swapped scl and sda.** mine are on D4 and D5 the other way around than the guide's table, so the numbers in the code are swapped too
-
-## the pcb
-
+##the pcb
 made in kicad. i wanted a cloud shaped pcb with teddy ears so i used the curve lines to make the edge cut, which was harder than i thought lol. the pcb size also had to be under 100x100mm so i kept moving the parts and the edge cuts closer together to make it smaller. there is a gnd pour on both copper layers. i also added some art on the silkscreen and 3d models for the parts so the render looks nice.
 
-stuff that went wrong (a lot):
-- some parts like the esp32 weren't in kicad search so i had to import them from the care package
-- my labels in the schematic weren't touching the parts so nothing was actually connected, someone in the slack helped me figure that out
-- one trace was unconnected in the drc and i had to fix it
+a lot of stuff went wrong. some parts like the esp32 weren't in kicad search so i had to import them from the care package. my labels in the schematic weren't touching the parts so nothing was actually connected, and someone in the slack helped me figure that out. one trace was also unconnected in the drc and i had to fix it.
 
-<!-- TODO: say what the final board shape is if it changed from the cloud, and the board size -->
+##firmware
+it's one arduino sketch based on the guide's code, with my pins and the happy button added. to use it, install the arduino ide, then install esp32 by espressif systems in the boards manager and pick XIAO_ESP32C3. set USB CDC On Boot to Enabled. install the libraries Adafruit GFX, Adafruit SSD1306, Adafruit MPU6050 and DHT sensor library. then open the sketch, hit verify, and upload with the board plugged in.
 
-## firmware
-it's one arduino sketch based on the guide's code, with my pins and the happy button added.
-1. install the arduino ide
-2. installed parts
-3. wrote code
-4. took 200% help from the guide
+##status
+the schematic and pcb layout are done and the firmware compiles. i haven't tested it on the real board yet because it's not built.
 
-# status
-- schematic and pcb layout are done
-- the firmware compiles
-- i haven't tested it on the real board yet because it's not built { update in week 5 }
-
-#credits
-- made for [half life](https://halflife.hackclub.com) by hack club
-- thanks to the people in the half life slack who helped when i got stuck
+#3credits
+original starbie design, guide and starter code by SharKingStudios. made for half life by hack club. thanks to the people in the half life slack who helped when i got stuck.
