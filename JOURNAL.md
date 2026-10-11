@@ -14,7 +14,7 @@
 
 ## Contents
 
-1. [2026-10-06 – i was really scared to take this half life program because i completely  new to  hardware but i decided to do it anyway here i am doing it as i am completely beginner i went with starbie i downloaded](#2026-10-06-i-was-really-scared-to-take-this-half-life-progra)
+1. [2026-10-06 – well entry one yahhhh !!?](#2026-10-06-well-entry-one-yahhhh)
 2. [2026-10-07 – yeahh second journal entry](#2026-10-07-yeahh-second-journal-entry)
 3. [2026-10-08 – well entry 3 so far](#2026-10-08-well-entry-3-so-far)
 4. [2026-10-10 – yahho entry 4 so far](#2026-10-10-yahho-entry-4-so-far)
@@ -22,11 +22,17 @@
 
 ## Design
 
-### 2026-10-06 – i was really scared to take this half life program because i completely  new to  hardware but i decided to do it anyway here i am doing it as i am completely beginner i went with starbie i downloaded
+### 2026-10-06 – well entry one yahhhh !!?
 
 **1.92h**
 
-i was really scared to take this half life program because i completely  new to  hardware but i decided to do it anyway here i am doing it as i am completely beginner i went with starbie i downloaded the kicad created project and started working on the project did schematic parts battery environment sensor brain of starbie esp32 i struggled with the parts not being there in search engine like esp32 yeahh wiring it was kept deleting because of me only  there  so much left to do l should complete its almost webnesday here hope the journey goes smooth
+well entry one yahhhh !!?
+
+i was really scared to take this half life program because i was  completely  new to  hardware but i decided to do it anyway here i am doing it as i am completely beginner i went with starbie i downloaded the kicad created project and started working on the project did schematic parts battery environment sensor brain of starbie esp32 i struggled with the parts not being there in search engine like esp32 yeahh wiring it was kept deleting because of me
+
+watched youtube kicad  tutorial to understand kicad better
+
+so much left to do l should complete its almost webnesday here hope the journey goes smooth
 
 ![Screenshot 2026-10-06 230537](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/k9cK7RFJqruSmBgZjJV0pElVN8uP2ZCX/dcc414da96f3a5423f63dd18756d28c719acca29222f50c5fa20eac95669a28c.png)
 
@@ -35,6 +41,14 @@ i was really scared to take this half life program because i completely  new to 
 [Timelapse](https://lookout.hackclub.com/api/media/04b030b2-b80a-4803-b268-6ccaf0d92431/video.mp4)
 
 [Timelapse](https://lookout.hackclub.com/api/media/79ed857b-235d-46ef-b3b5-779b394670bd/video.mp4)
+
+[Timelapse](https://lookout.hackclub.com/api/media/b65b7931-fcaf-4a20-924a-f4bf899ce8d5/video.mp4)
+
+[Timelapse](https://lookout.hackclub.com/api/media/6c410c8b-b7c8-4b9f-bc04-56eb6640b2f6/video.mp4)
+
+[Timelapse](https://lookout.hackclub.com/api/media/cf701e95-4cff-47be-8c1f-df6c648a789b/video.mp4)
+
+[Timelapse](https://lookout.hackclub.com/api/media/f9648f87-8743-4660-ab7d-8342477094f2/video.mp4)
 
 ### 2026-10-07 – yeahh second journal entry
 
