@@ -1,5 +1,5 @@
 Designator,Footprint,Quantity,Value,LCSC Part #,Component,Unit Price (INR)
-J1,Display_128x64_096_I2C,1,Conn_01x04_Pin,#LINK,0.96 inch OLED Display (I2C - SSD1306 - 128x64),PRICE,
+J1,Display_128x64_096_I2C,1,Conn_01x04_Pin,#LINK,0.96 inch OLED Display (I2C - SSD1306 - 128x64),PRICE
 J2,PinHeader_1x08_P2.54mm_Vertical,1,Conn_01x08_Pin,#LINK,MPU6050 Motion Sensor Module (GY-521),PRICE
 R1,R_Axial_DIN0204_L3.6mm_D1.6mm_P7.62mm_Horizontal,1,10K,#LINK,10K Ohm Resistor (1/4W),PRICE
 "SW1, SW2, SW3",SW_Cherry_MX_1.00u_PCB,3,SW_Push,#LINK,Cherry MX Keyboard Switch (PCB mount),PRICE
