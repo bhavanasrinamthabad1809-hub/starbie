@@ -18,7 +18,7 @@
 2. [2026-10-07 – yeahh second journal entry](#2026-10-07-yeahh-second-journal-entry)
 3. [2026-10-08 – well entry 3 so far](#2026-10-08-well-entry-3-so-far)
 4. [2026-10-10 – yahho entry 4 so far](#2026-10-10-yahho-entry-4-so-far)
-5. [2026-10-11 – i was trying my best to do it since it was cloud it has  different version at different point so that has been the big prb though](#2026-10-11-i-was-trying-my-best-to-do-it-since-it-was-cloud-)
+5. [2026-10-11 – yahhh entry 5 we are done with 1 week](#2026-10-11-yahhh-entry-5-we-are-done-with-1-week)
 
 ## Design
 
@@ -139,9 +139,11 @@ i was trying my best to do it since it was cloud it has  different version at di
 
 [Timelapse](https://lookout.hackclub.com/api/media/c840aa0d-f1e7-4c3b-bf54-97c65f186824/video.mp4)
 
-### 2026-10-11 – i was trying my best to do it since it was cloud it has  different version at different point so that has been the big prb though
+### 2026-10-11 – yahhh entry 5 we are done with 1 week
 
 **4.52h**
+
+yahhh entry 5 we are done with 1 week
 
 i was trying my best to do it since it was cloud it has  different version at different point so that has been the big prb though
 
@@ -172,6 +174,10 @@ code
 i have seen the guide did exactly same with some changes,  change of controls if you  see i have 3 switches , it makes character super happy and excited changed the character and added heart and sparkle as some special thing
 
 then i realised i did not added 3d models to my pcb did it in last lapse , added some more cute stickers then i was done with it
+
+cant wait to get my hands on it
+
+![Screenshot 2026-10-10 200516](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/k9cK7RFJqruSmBgZjJV0pElVN8uP2ZCX/1150f52adbcb6337a1def937c7f4ac36345b8eacb3d8a237b8ee3172e64b2309.png)
 
 ![Screenshot 2026-10-10 211423](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/k9cK7RFJqruSmBgZjJV0pElVN8uP2ZCX/ddcd88268742789e3c57847879225e9d1a3a408641d387098b0e8e765d4cc61f.png)
 
