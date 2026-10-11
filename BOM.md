@@ -20,7 +20,7 @@
 | [resistor](https://robocraze.com/products/10k-resistor-pack-of-10) | current voltage | 1 | $0.13 | $0.13 | [robocraze](https://robocraze.com/products/10k-resistor-pack-of-10) |
 | [switches](https://amzn.in/d/04cQJwNM) | controls | 1 | $3.72 | $3.72 | [amazon](https://amzn.in/d/04cQJwNM) |
 | **Parts subtotal** | — | — | — | **$31.56** | — |
-| **Tax & shipping** | — | — | — | **$1.55** | — |
-| **Total** | — | — | — | **$33.11** | — |
+| **Tax & shipping** | — | — | — | **$1.00** | — |
+| **Total** | — | — | — | **$32.56** | — |
 
-**$3.11 over the tier's funding.** Every tier gives a fixed amount for parts, so this needs cutting back or a higher tier.
+**$2.56 over the tier's funding.** Every tier gives a fixed amount for parts, so this needs cutting back or a higher tier.
