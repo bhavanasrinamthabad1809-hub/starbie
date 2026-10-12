@@ -32,10 +32,10 @@ a lot of stuff went wrong. some parts like the esp32 weren't in kicad search so 
 
 
 # FLIMWARE
-it's one arduino sketch based on the guide's code, with changes in the code , adding 3 button , changing the character with image app , specifically telling the reaction to the pet to nap rest happy jump excited , menu opening much  deadline is on my head bro .
+it's one arduino sketch based on the guide's code, with changes in the code , adding 3 button , changing the character with image app , specifically telling the reaction to the pet to nap rest happy jump excited , i mean maybe i will change the character and code when i see how actually  see it performs i dont have any idea right now about it how it works so yeahh ,menu opening much more.
 
 ## STATUS
-the schematic and pcb layout are done and the firmware compiles. i haven't tested it on the real board yet because it's not built.(SOON)
+the schematic and pcb layout are done and the firmware done. i haven't tested it on the real board yet because it's not built.(SOON)
 
 ## Bill of Materials
 
